@@ -1,4 +1,4 @@
-<h1 align='center'> Hey, i'm Vinícius Oliveira, what's up? 👋 </h1>
+<h1 align='center'> Hey, what's up? 👋 </h1>
 
 <!--
 **viniferoli/viniferoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
