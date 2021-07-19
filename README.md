@@ -1,7 +1,7 @@
 <h1 align='center'> Hey, what's up? 👋 </h1>
 <br>
 
-<img width="25%" align="right" alt="computer" src="https://github.com/viniferoli/viniferoli/blob/main/notebook-p.png?raw=true" />
+<img align="right" alt="computer" src="https://github.com/viniferoli/viniferoli/blob/main/notebook-p.png?raw=true" width="350" />
 
 <p>Hi, I'm Vinicius. I'm a SI student and I'm looking for job opportunities in the area. I'm currently focused on learning more about frontend.</p>
 
