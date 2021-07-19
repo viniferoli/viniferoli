@@ -1,6 +1,15 @@
 <h1 align='center'> Hey, what's up? 👋 </h1>
+<br>
 
-In this repository you will find my college projects and some personal projects where I seek to challenge myself, venture into new methods and force myself out of my comfort zone
+<img width="25%" align="right" alt="computer" src="https://github.com/viniferoli/viniferoli/blob/main/notebook-p.png?raw=true" />
 
+<p>Hi, I'm Vinicius. I'm a SI student and I'm looking for job opportunities in the area. I'm currently focused on learning more about frontend.</p>
 
-Thanks for the visit
+<p>Passionate about technology, series and music.</p>
+
+<p>In this repository you will find my college projects and some personal projects where I seek to challenge myself, venture into new methods and force myself out of my comfort zone.</p>
+
+<p>💬 You can feel free talk to me via <a href="https://www.linkedin.com/in/viniferoli/">LinkedIn</a></p>
+
+<br>
+<p>Thanks for the visit</p>
