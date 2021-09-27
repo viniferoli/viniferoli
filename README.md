@@ -7,7 +7,7 @@
 
 <p>Passionate about technology, tv show and music.</p>
 
-<p>In this repository you will find my academic projects and some personal projects where I seek to challenge myself, venture into new methods and force myself out of my comfort zone.</p>
+<p>In this repository, you will find my academic projects and some personal projects where I seek to challenge myself, venture into new methods and force myself out of my comfort zone.</p>
 
 <p>💬 You can feel free talk to me via <a href="https://www.linkedin.com/in/viniferoli/">LinkedIn</a></p>
 
