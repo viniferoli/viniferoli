@@ -3,7 +3,7 @@
 
 <img align="right" alt="computer" src="https://github.com/viniferoli/viniferoli/blob/main/notebook-p.png?raw=true" width="350" />
 
-<p>Hi, I'm Vinicius. I'm a SI student and I'm looking for job opportunities. I'm currently focused on learning more about frontend.</p>
+<p>Hi, I'm Vinicius. I'm a SI student and Junior OutSystems Developer. I'm currently focused on learning more about Low Code.</p>
 
 <p>Passionate about technology, tv show and music.</p>
 
